@@ -1,4 +1,5 @@
 #!/bin/bash
+# based on imiell/sqlite
 echo "Creating directory"
 SQLITEDIR=/tmp/sqlitedbs
 rm -rf $SQLITEDIR
